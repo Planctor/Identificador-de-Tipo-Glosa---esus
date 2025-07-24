@@ -1,0 +1,133 @@
+Glosa CNS inválido
+Glosa CNS inválido
+Glosa CNS inválido
+Glosa imunobiologico, [1] Imunoglobulina humana antitétano
+Glosa imunobiologico, [2] Soro antitetânico
+Glosa imunobiologico, [3] soro antiaracnídico
+Glosa imunobiologico, [4] Soro antiescorpiônico
+Glosa imunobiologico, [5] Vacina difteria e tétano infantil
+Glosa imunobiologico, [6] Soro antielapídico
+Glosa imunobiologico, [7] Soro antirrábico
+Glosa imunobiologico, [8] Soro antibotrópico (pentavalente)
+Glosa imunobiologico, [9] Vacina hepatite B
+Glosa imunobiologico, [10] Soro antidiftérico
+Glosa imunobiologico, [11] Soro antibotrópico (pentavalente) e anticrotálico
+Glosa imunobiologico, [12] Soro antibotrópico (pentavalente) e antilaquético
+Glosa imunobiologico, [13] Vacina meningocócica AC
+Glosa imunobiologico, [14] Vacina febre amarela
+Glosa imunobiologico, [15] Vacina BCG
+Glosa imunobiologico, [16] Soro anticrotálico
+Glosa imunobiologico, [17] Vacina Hib
+Glosa imunobiologico, [18] Vacina raiva embrião de galinha
+Glosa imunobiologico, [19] Imunoglobulina humana antivaricela
+Glosa imunobiologico, [20] Imunoglobulina humana anti-hepatite B
+Glosa imunobiologico, [21] Vacina pneumo 23
+Glosa imunobiologico, [22] Vacina polio injetável
+Glosa imunobiologico, [23] Imunoglobulina humana antirrábica
+Glosa imunobiologico, [24] Vacina sarampo, caxumba, rubéola
+Glosa imunobiologico, [25] Vacina difteria e tétano adulto
+Glosa imunobiologico, [26] Vacina pneumo 10
+Glosa imunobiologico, [28] Vacina polio oral
+Glosa imunobiologico, [29] Vacina penta acelular (DTPa/VIP/Hib)
+Glosa imunobiologico, [30] Vacina febre tifóide
+Glosa imunobiologico, [31] Soro antiloxoscélico (trivalente)
+Glosa imunobiologico, [32] Soro antilonômico
+Glosa imunobiologico, [33] Vacina influenza trivalente
+Glosa imunobiologico, [34] Vacina varicela
+Glosa imunobiologico, [35] Vacina hepatite A
+Glosa imunobiologico, [36] Vacina sarampo, rubéola
+Glosa imunobiologico, [37] Vacina raiva em cultivo celular vero
+Glosa imunobiologico, [38] Soro antibotulínico (trivalente)
+Glosa imunobiologico, [39] Vacina DTP/Hib
+Glosa imunobiologico, [40] Vacina pneumocócica 7V
+Glosa imunobiologico, [41] Vacina meningo C
+Glosa imunobiologico, [42] Vacina penta (DTP/HepB/Hib)
+Glosa imunobiologico, [43] Vacina hexa (DTPa/HepB/VIP/Hib)
+Glosa imunobiologico, [44] Vacina Influenza H1N1
+Glosa imunobiologico, [45] Vacina rotavírus
+Glosa imunobiologico, [46] Vacina DTP
+Glosa imunobiologico, [47] Vacina DTPa infantil
+Glosa imunobiologico, [51] Vacina febre tifóide (atenuada)
+Glosa imunobiologico, [55] Vacina hepatite A infantil
+Glosa imunobiologico, [56] Vacina sarampo, caxumba, rubéola e varicela
+Glosa imunobiologico, [57] Vacina dTpa adulto
+Glosa imunobiologico, [58] Vacina DTPa/VIP
+Glosa imunobiologico, [59] Vacina pneumo 13
+Glosa imunobiologico, [60] Vacina HPV bivalente
+Glosa imunobiologico, [61] Vacina toxóide tetânico
+Glosa imunobiologico, [62] Hepatite AeB(pediátrica)
+Glosa imunobiologico, [63] Vacina hepatite AeB(uso adulto)
+Glosa imunobiologico, [64] Vacina influenza ID
+Glosa imunobiologico, [65] Vacina rotavírus pentavalente
+Glosa imunobiologico, [66] Vacina meningocócica B/C
+Glosa imunobiologico, [67] Vacina HPV quadrivalente
+Glosa imunobiologico, [69] Soro antibotulínico AB (bivalente)
+Glosa imunobiologico, [70] Vacina sarampo
+Glosa imunobiologico, [71] Vacina rubéola
+Glosa imunobiologico, [72] Vacina gripe
+Glosa imunobiologico, [73] Vacina quádrupla viral
+Glosa imunobiologico, [74] Vacina meningo ACWY
+Glosa imunobiologico, [75] Vacina cólera
+Glosa imunobiologico, [76] Vacina herpes-zóster
+Glosa imunobiologico, [77] Vacina influenza tetravalente
+Glosa imunobiologico, [78] Vacina meningo B
+Glosa imunobiologico, [82] Vacina dengue
+Glosa imunobiologico, [83] Vacina hepatite A adulto
+Glosa imunobiologico, [84] Vacina febre amarela fracionada
+Glosa imunobiologico, [85] Vacina COVID-19-recombinante, AstraZeneca/Fiocruz (Covishield)
+Glosa imunobiologico, [86] Vacina COVID-19-inativada, Sinovac/Butantan (Coronavac)
+Glosa imunobiologico, [87] Vacina COVID-19-RNAm, Pfizer (Comirnaty)
+Glosa imunobiologico, [88] Vacina COVID-19-recombinante, Janssen (Ad26.COV2.S)
+Glosa imunobiologico, [89] Vacina COVID-19-recombinante, AstraZeneca/Covax (ChAdOx1-S)
+Glosa imunobiologico, [97] vacina COVID-19-RNAm, Moderna (Spikevax)
+Glosa imunobiologico, [98] Vacina COVID-19-inativada, Sinovac (Coronavac)
+Glosa imunobiologico, [99] Vacina COVID-19-RNAm, Pfizer (Comirnaty) pediátrica
+Glosa imunobiologico, [100] Vacina varíola símia (atenuada)
+Glosa imunobiologico, [101] Vacina Herpes-Zoster (recombinante)
+Glosa imunobiologico, [102] Vacina COVID-19-RNAm, Pfizer (Comirnaty) pediátrica menor de 5 anos
+Glosa imunobiologico, [103] Vacina COVID-19-RNAm, Pfizer (Comirnaty) bivalente
+Glosa imunobiologico, [104] Vacina dengue (atenuada)
+Glosa imunobiologico, [105] Vacina Covid-19-RNAm, Moderna (Spikevax) bivalente
+Glosa imunobiologico, [106] Vacina adsorvida pneumocócica 15-valente (conjugada, polissacarídica)
+Glosa imunobiologico, [107] Vacina Pneumo 20
+Glosa imunobiologico, [108] Vacina Vírus Sincicial Respiratório A e B (recombinante)
+Glosa imunobiologico, [109] Vacina vírus sincicial respiratório (recombinante, adjuvada)
+Glosa imunobiologico, [110] Vacina Influenza Tetravalente - Alta Dosagem
+Glosa imunobiologico, [111] Vacina Tetra Acelular dTpa/VIP
+Glosa imunobiologico, [112] Vacina Covid-19-recombinante, Serum/Zalika
+Glosa imunobiologico, [114] Vacina Covid-19-inativada, Sinopharm
+Glosa grupoAtendimento
+Glosa Ine
+Registro duplicado
+Paciente sem cpf ou cns
+Administração e resgate da mesma vacina
+Glosa Lote com valores inválidos
+Gestante menor 9 anos
+Glosa de tiposConsultaOdonto
+Estrangeiro sem data de Entrada ou pais de nascimento
+CBO existente
+Situação de Rua
+Cidadao é o profisisonal
+Quantidade de procedimentos deve ser 1
+Timestamp
+Glosa Telefone inválido
+Glosa Colesterol Total
+PortariaNaturalização caracteres inválidos
+Glosa de tiposEncamOdonto
+Família duplicada e/ou pacientes duplicados
+Nome inválido
+CNS Cidadão deve iniciar com 1 2 7 8 ou 9
+Glosa IdentidadeGeneroCidadao
+Glosa quantidade de participantes atividade coletiva
+Glosa habitor de fumar
+2 CID\s gestação na ficha de odonto
+Timestamp - DtEntradaBrasil anterior ao nascimento
+Timestamp - Condição final
+Timestamp - Condição inicio
+Glosa hemoglobina glicosilada
+Glosa Data do responsável posterior ao atendimento
+Glosa OrientacaoSexualCidadao possui um valor inválido
+Glosa CNS profissional deve ter 15 caracteres
+Glosa LDL
+Glosa peso
+Glosa avaliações alteradas declarada

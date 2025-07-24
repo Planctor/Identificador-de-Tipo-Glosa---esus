@@ -1,0 +1,133 @@
+ProfissionalCNS possui um valor inválido
+CnsProfissional possui um valor inválido
+ProfissionalCNS inválido
+imunobiologico: Não é possível registrar o imunobiológico \[1\]
+imunobiologico: Não é possível registrar o imunobiológico \[2\]
+imunobiologico: Não é possível registrar o imunobiológico \[3\]
+imunobiologico: Não é possível registrar o imunobiológico \[4\]
+imunobiologico: Não é possível registrar o imunobiológico \[5\]
+imunobiologico: Não é possível registrar o imunobiológico \[6\]
+imunobiologico: Não é possível registrar o imunobiológico \[7\]
+imunobiologico: Não é possível registrar o imunobiológico \[8\]
+imunobiologico: Não é possível registrar o imunobiológico \[9\]
+imunobiologico: Não é possível registrar o imunobiológico \[10\]
+imunobiologico: Não é possível registrar o imunobiológico \[11\]
+imunobiologico: Não é possível registrar o imunobiológico \[12\]
+imunobiologico: Não é possível registrar o imunobiológico \[13\]
+imunobiologico: Não é possível registrar o imunobiológico \[14\]
+imunobiologico: Não é possível registrar o imunobiológico \[15\]
+imunobiologico: Não é possível registrar o imunobiológico \[16\]
+imunobiologico: Não é possível registrar o imunobiológico \[17\]
+imunobiologico: Não é possível registrar o imunobiológico \[18\]
+imunobiologico: Não é possível registrar o imunobiológico \[19\]
+imunobiologico: Não é possível registrar o imunobiológico \[20\]
+imunobiologico: Não é possível registrar o imunobiológico \[21\]
+imunobiologico: Não é possível registrar o imunobiológico \[22\]
+imunobiologico: Não é possível registrar o imunobiológico \[23\]
+imunobiologico: Não é possível registrar o imunobiológico \[24\]
+imunobiologico: Não é possível registrar o imunobiológico \[25\]
+imunobiologico: Não é possível registrar o imunobiológico \[26\]
+imunobiologico: Não é possível registrar o imunobiológico \[28\]
+imunobiologico: Não é possível registrar o imunobiológico \[29\]
+imunobiologico: Não é possível registrar o imunobiológico \[30\]
+imunobiologico: Não é possível registrar o imunobiológico \[31\]
+imunobiologico: Não é possível registrar o imunobiológico \[32\]
+imunobiologico: Não é possível registrar o imunobiológico \[33\]
+imunobiologico: Não é possível registrar o imunobiológico \[34\]
+imunobiologico: Não é possível registrar o imunobiológico \[35\]
+imunobiologico: Não é possível registrar o imunobiológico \[36\]
+imunobiologico: Não é possível registrar o imunobiológico \[37\]
+imunobiologico: Não é possível registrar o imunobiológico \[38\]
+imunobiologico: Não é possível registrar o imunobiológico \[39\]
+imunobiologico: Não é possível registrar o imunobiológico \[40\]
+imunobiologico: Não é possível registrar o imunobiológico \[41\]
+imunobiologico: Não é possível registrar o imunobiológico \[42\]
+imunobiologico: Não é possível registrar o imunobiológico \[43\]
+imunobiologico: Não é possível registrar o imunobiológico \[44\]
+imunobiologico: Não é possível registrar o imunobiológico \[45\]
+imunobiologico: Não é possível registrar o imunobiológico \[46\]
+imunobiologico: Não é possível registrar o imunobiológico \[47\]
+imunobiologico: Não é possível registrar o imunobiológico \[51\]
+imunobiologico: Não é possível registrar o imunobiológico \[55\]
+imunobiologico: Não é possível registrar o imunobiológico \[56\]
+imunobiologico: Não é possível registrar o imunobiológico \[57\]
+imunobiologico: Não é possível registrar o imunobiológico \[58\]
+imunobiologico: Não é possível registrar o imunobiológico \[59\]
+imunobiologico: Não é possível registrar o imunobiológico \[60\]
+imunobiologico: Não é possível registrar o imunobiológico \[61\]
+imunobiologico: Não é possível registrar o imunobiológico \[62\]
+imunobiologico: Não é possível registrar o imunobiológico \[63\]
+imunobiologico: Não é possível registrar o imunobiológico \[64\]
+imunobiologico: Não é possível registrar o imunobiológico \[65\]
+imunobiologico: Não é possível registrar o imunobiológico \[66\]
+imunobiologico: Não é possível registrar o imunobiológico \[67\]
+imunobiologico: Não é possível registrar o imunobiológico \[69\]
+imunobiologico: Não é possível registrar o imunobiológico \[70\]
+imunobiologico: Não é possível registrar o imunobiológico \[71\]
+imunobiologico: Não é possível registrar o imunobiológico \[72\]
+imunobiologico: Não é possível registrar o imunobiológico \[73\]
+imunobiologico: Não é possível registrar o imunobiológico \[74\]
+imunobiologico: Não é possível registrar o imunobiológico \[75\]
+imunobiologico: Não é possível registrar o imunobiológico \[76\]
+imunobiologico: Não é possível registrar o imunobiológico \[77\]
+imunobiologico: Não é possível registrar o imunobiológico \[78\]
+imunobiologico: Não é possível registrar o imunobiológico \[82\]
+imunobiologico: Não é possível registrar o imunobiológico \[83\]
+imunobiologico: Não é possível registrar o imunobiológico \[84\]
+imunobiologico: Não é possível registrar o imunobiológico \[85\]
+imunobiologico: Não é possível registrar o imunobiológico \[86\]
+imunobiologico: Não é possível registrar o imunobiológico \[87\]
+imunobiologico: Não é possível registrar o imunobiológico \[88\]
+imunobiologico: Não é possível registrar o imunobiológico \[89\]
+imunobiologico: Não é possível registrar o imunobiológico \[97\]
+imunobiologico: Não é possível registrar o imunobiológico \[98\]
+imunobiologico: Não é possível registrar o imunobiológico \[99\]
+imunobiologico: Não é possível registrar o imunobiológico \[100\]
+imunobiologico: Não é possível registrar o imunobiológico \[101\]
+imunobiologico: Não é possível registrar o imunobiológico \[102\]
+imunobiologico: Não é possível registrar o imunobiológico \[103\]
+imunobiologico: Não é possível registrar o imunobiológico \[104\]
+imunobiologico: Não é possível registrar o imunobiológico \[105\]
+imunobiologico: Não é possível registrar o imunobiológico \[106\]
+imunobiologico: Não é possível registrar o imunobiológico \[107\]
+imunobiologico: Não é possível registrar o imunobiológico \[108\]
+imunobiologico: Não é possível registrar o imunobiológico \[109\]
+imunobiologico: Não é possível registrar o imunobiológico \[110\]
+imunobiologico: Não é possível registrar o imunobiológico \[111\]
+imunobiologico: Não é possível registrar o imunobiológico \[112\]
+imunobiologico: Não é possível registrar o imunobiológico \[114\]
+grupoAtendimento possui um valor inválido
+ Ine
+idênticos
+CPF ou CNS do cidadão deve ser preenchido
+stRegistroAnterior = false possuem o mesmo imunobiológico
+lote
+com menos de 9 anos.
+tiposConsultaOdonto
+Código de país não pode ser Brasil quando o cidadão é estrangeiro31
+OcupacaoCodigoCbo2002
+emSituacaoDeRua
+deve ser diferente do CNS do profissional
+A quantidade realizada do procedimento
+dataHora
+Telefone
+0202010295
+portariaNaturalizacao
+tiposEncamOdonto
+CNS do responsável já cadastrado
+Nome
+cnsCidadao: CNS deve iniciar com 1, 2, 7, 8 ou 9
+IdentidadeGeneroCidadao
+Nº de participantes deve ser maior ou igual ao número de participantes cadastrados na lista de participantes
+Cessou hábito de fumar
+Z34
+DtEntradaBrasil
+A data de fim de um problema deve ser igual ou anterior à data do atendimento
+A data de início de um problema deve ser igual ou anterior à data do atendimento
+0202010503
+dataNascimentoResponsavel: Data de nascimento do responsável
+OrientacaoSexualCidadao possui um valor inválido
+profissionalCNS deve ter 15 caracteres
+0202010287
+peso deve ter valor entre
+Nº de avaliações alteradas declarada na ficha deve ser igual ao Nº de avaliações alteradas na lista de participantes

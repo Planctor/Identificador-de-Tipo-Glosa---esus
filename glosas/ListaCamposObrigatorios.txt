@@ -1,0 +1,10 @@
+etnia
+dtEntradaBrasil
+dtNaturalizacao
+uuidFichaOriginadora
+participantes
+glicemiaCapilar
+numParticipantes
+portariaNaturalizacao
+paisNascimento
+inep
